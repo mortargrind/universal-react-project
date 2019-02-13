@@ -1,0 +1,22 @@
+{
+  "name": "universal-react-project",
+  "version": "1.0.0",
+  "description": "Universal React Project Template",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.15.1 <11.0.0",
+    "npm": ">=6.4.1 <7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortargrind/universal-react-project.git"
+  },
+  "author": "Semih Basmacı <mortargrind@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mortargrind/universal-react-project/issues"
+  },
+  "homepage": "https://github.com/mortargrind/universal-react-project#readme"
+}
